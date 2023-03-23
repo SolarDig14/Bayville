@@ -1,7 +1,7 @@
 {
     "name": "Bayville",
     "preductname": "Bayville Launcher",
-    "version": "1.2.5",
+    "version": "1.2.6",
     "description": "Launcher Mincraft custom (crack, premium)",
     "main": "src/app.js",
     "author": "Solar",
